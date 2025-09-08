@@ -55,10 +55,10 @@ Praktikum ini bertujuan untuk mempelajari cara kerja mekanisme tata letak (layou
 Berikut adalah kode lengkap setelah menyelesaikan semua praktikum:
 <img width="2048" height="4246" alt="image" src="https://github.com/user-attachments/assets/f5a477ca-5ea0-4894-8a5d-dc7b131dd53b" />
 
-###4.2 Hasil Pengujian
+### 4.2 Hasil Pengujian
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7bfed8c8-721e-4c00-ab28-f755b1f6179c" />
 
-###4.3 Analisis
+### 4.3 Analisis
 
 -Penggunaan Row dan Column efektif untuk menata elemen secara horizontal dan vertikal.
 -ListView lebih unggul dibanding Column untuk aplikasi dengan konten panjang karena mendukung scrolling dinamis.
@@ -67,7 +67,7 @@ Berikut adalah kode lengkap setelah menyelesaikan semua praktikum:
 
 ---
 
-##5. Kesimpulan
+## 5. Kesimpulan
 
 Praktikum ini berhasil mengimplementasikan layout dasar Flutter dengan elemen gambar, judul, tombol, dan teks. Pemahaman tentang widget seperti Image.asset, Row, Column, dan ListView meningkat, serta kemampuan mengelola aset melalui pubspec.yaml
 
