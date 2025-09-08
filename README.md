@@ -3,7 +3,6 @@
 **Nama:** Ahmad Bachtiar Raflyansyah  
 **NIM:** 362458302141  
 **Tanggal:** 08 September 2025  
-**Waktu:** 03:24 PM WIB  
 **Judul Praktikum:** Implementasi Layout di Flutter (Praktikum 1-4)
 
 ---
