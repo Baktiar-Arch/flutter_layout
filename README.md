@@ -60,9 +60,9 @@ Berikut adalah kode lengkap setelah menyelesaikan semua praktikum:
 
 ### 4.3 Analisis
 
--Penggunaan Row dan Column efektif untuk menata elemen secara horizontal dan vertikal.
--ListView lebih unggul dibanding Column untuk aplikasi dengan konten panjang karena mendukung scrolling dinamis.
--Pengaturan warna (biru untuk tombol, abu-abu untuk subjudul) meningkatkan visibilitas dan estetika.
+- Penggunaan Row dan Column efektif untuk menata elemen secara horizontal dan vertikal.
+- ListView lebih unggul dibanding Column untuk aplikasi dengan konten panjang karena mendukung scrolling dinamis.
+- Pengaturan warna (biru untuk tombol, abu-abu untuk subjudul) meningkatkan visibilitas dan estetika.
 - Jika Terjadi Error seperti gambar tidak muncul dapat diatasi dengan memastikan path di pubspec.yaml benar.
 
 ---
