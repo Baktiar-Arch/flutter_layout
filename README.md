@@ -54,4 +54,6 @@ Praktikum ini bertujuan untuk mempelajari cara kerja mekanisme tata letak (layou
 ## 4. Hasil dan Pembahasan
 ### 4.1 Kode Program
 Berikut adalah kode lengkap setelah menyelesaikan semua praktikum:
+<img width="2048" height="4246" alt="image" src="https://github.com/user-attachments/assets/f5a477ca-5ea0-4894-8a5d-dc7b131dd53b" />
+
 
