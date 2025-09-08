@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
                 Container(
                   padding: const EdgeInsets.only(bottom: 8.0),
                   child: const Text(
-                    'Wisata Gunung di Batu',
+                    'Fushimi Inari Taisha',
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
                 ),
